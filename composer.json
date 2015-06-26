@@ -1,9 +1,9 @@
 {
-    "name": "CuongDC/demo",
+    "name": "cuongdc/demo",
     "description": "test the laravel",
     "authors": [
         {
-            "name": "CuongDC",
+            "name": "cuongdc",
             "email": "cuongdc@bkav.com"
         }
     ],
